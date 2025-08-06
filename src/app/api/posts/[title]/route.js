@@ -1,4 +1,3 @@
-// src/app/api/posts/[title]/route.js
 import fs from 'fs';
 import path from 'path';
 
